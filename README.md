@@ -7,6 +7,6 @@ A template for all new projects.
 * Do this
 * Go for lunch
 
-## Licence
+## License
 
 Template is released under the [MIT License](http://www.opensource.org/licenses/MIT).
